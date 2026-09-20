@@ -2,7 +2,7 @@
 
 ### Mathematics & Data Science Graduate
 
-I'm a Mathematics & Data Science graduate from the University of Exeter,
+I'm a Mathematics & Data Science graduate
 interested in machine learning, data analytics and building data-driven
 solutions to real-world problems.
 
