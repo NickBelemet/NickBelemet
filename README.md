@@ -7,7 +7,7 @@ interested in machine learning, data analytics and building data-driven
 solutions to real-world problems.
 
 My work spans predictive modelling, Bayesian inference, large-scale SQL
-data processing and interactive visualisation.
+data processing and building interactive visualisations & dashboards.
 
 ## Featured Projects
 
